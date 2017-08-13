@@ -1,0 +1,6 @@
+/.idea
+/wp
+/wp-content
+/.htaccess
+/composer.lock
+/wp-config.php
